@@ -1,3 +1,3 @@
 # Dicee
-# educational project
+Udemy course
 
